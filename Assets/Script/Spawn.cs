@@ -15,6 +15,6 @@ public class Spawner : MonoBehaviour
     void SpawnObject()
     {
         // Créer une nouvelle instance de l'objet à la position spécifiée
-        Instantiate(objectToSpawn, spawnPoint.position, spawnPoint.rotation);
+        GameObject gameObject1 = Instantiate(objectToSpawn, spawnPoint.position, spawnPoint.rotation);
     }
 }

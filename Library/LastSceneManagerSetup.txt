@@ -1,5 +1,5 @@
 sceneSetups:
-- path: C:/Users/iut2023/Documents/Maquettage/Tutounity1/Assets/birdtuto.unity
+- path: Assets/Scenes/SampleScene.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
